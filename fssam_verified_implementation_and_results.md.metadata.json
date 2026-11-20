@@ -1,0 +1,5 @@
+{
+  "summary": "基于 FSSAM (ICML 2025) 的实测修正版技术方案与全 4 折实验验证报告。包含原方案实测诊断（连通域 Cycle-IoU 掉点 6.13% 的原因定位）、修正后的统一反向循环与硬负校准算子（RC-PPG + Bi-IMR + PN-SCMA + SNR-Gate）精确数学公式、PASCAL-5i 全 4 折 1-shot/5-shot 实测消融表、先验 FP/FN 机理表、IMR 迭代稳定性表及跨注意力背景抑制率表。",
+  "updatedAt": "2026-11-19T07:42:54.238714Z",
+  "userFacing": true
+}

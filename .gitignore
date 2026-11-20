@@ -1,0 +1,11 @@
+exp/
+lists/
+pretrained/
+priors/
+__pycache__/
+*.pyc
+pretrained/
+exp/
+*.pth
+*.pt
+*.ckpt
